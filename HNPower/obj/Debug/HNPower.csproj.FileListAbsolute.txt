@@ -1,0 +1,7 @@
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPower\bin\Debug\HNPower.exe.config
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPower\bin\Debug\HNPower.exe
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPower\bin\Debug\HNPower.pdb
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPower\obj\Debug\HNPower.csprojAssemblyReference.cache
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPower\obj\Debug\HNPower.csproj.CoreCompileInputs.cache
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPower\obj\Debug\HNPower.exe
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPower\obj\Debug\HNPower.pdb

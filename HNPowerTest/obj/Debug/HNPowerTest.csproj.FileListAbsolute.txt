@@ -1,0 +1,17 @@
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\bin\Debug\HNPowerTest.dll
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\bin\Debug\HNPowerTest.pdb
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\bin\Debug\HNPower.exe
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\bin\Debug\HNPower.pdb
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\bin\Debug\HNPower.exe.config
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\obj\Debug\HNPowerTest.csprojAssemblyReference.cache
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\obj\Debug\HNPowerTest.csproj.CoreCompileInputs.cache
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\obj\Debug\HNPowerTest.csproj.CopyComplete
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\obj\Debug\HNPowerTest.dll
+D:\FPT Course\Nam3\ki2\SWT\HNPower\HNPowerTest\obj\Debug\HNPowerTest.pdb
