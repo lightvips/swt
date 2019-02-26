@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HNPower", "HNPower\HNPower.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HNPowerTest", "HNPowerTest\HNPowerTest.csproj", "{CF392330-CCBE-461A-AF61-2CC11AFBFB29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaNoiPower", "HaNoiPower\HaNoiPower.csproj", "{9E14D83A-B31C-4E4E-BFFD-510BAEA54426}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CF392330-CCBE-461A-AF61-2CC11AFBFB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF392330-CCBE-461A-AF61-2CC11AFBFB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF392330-CCBE-461A-AF61-2CC11AFBFB29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E14D83A-B31C-4E4E-BFFD-510BAEA54426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E14D83A-B31C-4E4E-BFFD-510BAEA54426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E14D83A-B31C-4E4E-BFFD-510BAEA54426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E14D83A-B31C-4E4E-BFFD-510BAEA54426}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
